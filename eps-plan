@@ -1,0 +1,90 @@
+all     done   steal     nothing   extra
+282      92     168         22       50
+336     135     174         27       54
+pricing c
+page h
+page a
+page s
+page j
+page c
+page p
+jobs e
+Social e
+contact e
+Aplications e
+page e
+
+layout blade
+copy files
+
+frontend
+    pages
+        home                    html  blade  control     action  html2  ar     24X4=96 +  24x2=48   144
+            slider              ***    ***     ***        ===     ***   ***
+            contact             ***    ***     ***        ===     ***   ***
+            identity            ***    ***     ***        ===     ***   ***
+            tracking            ***    ***
+            service             ***    ***     ***        ===     ***   ***
+            Pros                ***    ***     ***        ===     ***   ***
+            calculetr           ***
+            testimonials        ***    ***     ***        ===     ***
+            page                ***    ***     ***        ===     ***    ***
+        about
+            identity Profile    ***    ***    ***         ===     ***    ***
+            why us  Pros        ***    ***    ***         ===     ***    ***
+            page                ***    ***    ***         ===     ***    ***
+        service
+            all                 ***    ***    ***         ===      ***   ***
+            details             ***    ***    ***         ===      ***
+            page                ***    ***    ***         ===      ***   ***
+        jobs
+             jobs               ***     ***   ***
+             page               ***     ***   ***
+             app
+        contact
+             info              ***    ***    ***          ===      ***
+             form
+             page
+`       pricing
+`           pricing            ***    ***    ***          ===
+            page               ***    ***    ***          ===       ***
+        fotter                 ***    ***    ***                    ***
+        header
+
+  others                        html  blade  control     action  html2  ar   8x6 =48
+        calculetr
+        myacoount
+            my-profile
+            bookmark
+            cheakout
+            cart
+            shipment
+            tracking
+
+
+backend
+    admin               table  crud   img   extra                                               12x4=48
+        Slider           ***    ***   ***    ===
+        Identity         ***    ***   ***    ===
+        Pros             ***    ***   ===    ***
+        Services         ***    ***   ***    ===
+        Jobs             ***    ***   ===
+        Aplications      ***    ***   ===
+        Testimonials     ***    ***   ***    ===
+        Social           ***    ***   ===
+        Contact          ***    ***   ===
+        Branshes         ***    ***   ===
+        Packages         ***    ***   ===
+        Page             ***    ***   ***
+    system              table  crud  relation    ucrud  export    reports   extra   roles      9x8=72
+        Shipments        ***    ***
+        Ways             ***    ***
+        Pay ways         ***    ***
+        Places           ***    ***
+        branches         ***    ***
+        receiveres       ***    ***
+        clients          ***    ***
+        Wallet           ***    ***
+        Withdrawal       ***    ***
+
+
